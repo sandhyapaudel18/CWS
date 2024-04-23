@@ -10,9 +10,12 @@
         This is a php tutorial
         <?php 
         echo"Hello World";
+
+
          //hello world
          $var=10;
-         echo $var;
+         $var2=15;
+         echo "The value of ";
          ?>
     </div>
    
