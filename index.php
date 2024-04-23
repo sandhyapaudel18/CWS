@@ -11,6 +11,8 @@
         <?php 
         echo"Hello World";
          //hello world
+         $var=10;
+         echo $var;
          ?>
     </div>
    
